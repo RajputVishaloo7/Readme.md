@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br><br>Currently Working On: Data-driven strategies for regulatory compliance at Ocube Services.<br><br>Looking to Collaborate On: Innovative data analysis projects that drive business growth and efficiency.<br><br>Looking for Help With: Advanced machine learning techniques and their application in data analysis.<br><br>Currently Learning: Deep learning and its integration with data analytics tools.<br><br>Ask Me About: Python libraries, statistical analysis, and data visualization techniques.<br><br>Fun Fact: I've been awarded Employee of the Month four times!
+About Me:<br><br>Currently Working On: Data-driven strategies for regulatory compliance at Ocube Services.<br>Looking to Collaborate On: Innovative data analysis projects that drive business growth and efficiency.<br>Looking for Help With: Advanced machine learning techniques and their application in data analysis.<br>Currently Learning: Deep learning and its integration with data analytics tools.<br>Ask Me About: Python libraries, statistical analysis, and data visualization techniques.<br>Fun Fact: I've been awarded Employee of the Month four times!
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@ About Me:<br><br>Currently Working On: Data-driven strategies for regulatory com
 ![](https://github-readme-stats.vercel.app/api?username=RajputVishaloo7&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RajputVishaloo7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajputVishaloo7&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RajputVishaloo7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RajputVishaloo7&icon=0&color=0)](https://visitcount.itsvg.in)
